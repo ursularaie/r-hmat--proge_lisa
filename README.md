@@ -1,1 +1,2 @@
 projejkt
+dist all kudumis_mustri_generaator.exe view raw vajutamisega laeb faili alla ja see on kompileeritud versioon, mis selle faili vajutamisega käivitab programmi. Ise sama tegemiseks tuleb alla laadida pyinstaller ja käivitada õiges kaustas terminalis käsk: pyinstaller --onefile -w .\programmeerimine.py, kus --onefile kompileerib kõik failid, -w vaatab, et kasutajaliides töötaks js .\programmeerimine.py on faili nimi, mida tahetakse kompileerida.
